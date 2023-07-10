@@ -8,3 +8,6 @@ Data Analytics Portfolio of projects worked on
 * The Year column is essential in making the dashboard interactive by shifting the visualizations according to the year selected and is extremely important for monitoring of * sales metrics and other KPIs for the business. 
 * Created visualizations for sales across different demographics to better understand the consumer market across various regions and segments
 
+  ![Sales Dasboard](https://github.com/ArsamData/Arsam_Portfolio/assets/139151109/ab3db838-77b3-4a27-a0fe-6704147d535a)
+
+
