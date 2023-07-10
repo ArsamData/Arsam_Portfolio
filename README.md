@@ -1,6 +1,6 @@
 # Arsam_Portfolio
 Data Analytics Portfolio of projects worked on
-# Project 1: Online Store Sales Dashboard 
+# [Project 1: Online Store Sales Dashboard](https://github.com/ArsamData/Arsam_Portfolio/blob/main/Sales%20Dashboard.pbix)
 * Created an interactive dashboard using Power BI to showcase the sales performance for an online store over the years.
 * Cleaned the data by addressing duplicate and missing values, correcting table headers and ensuring correct format for different columns like date and sales (dollars).
 * Applied advanced filtering to highlight Top 10 customers, Top 5 most profitable products and bottom 5 products resulting in a loss.
