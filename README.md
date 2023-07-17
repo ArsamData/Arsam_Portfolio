@@ -10,8 +10,8 @@ Data Analytics Portfolio of projects worked on
 
   ![Sales Dasboard](https://github.com/ArsamData/Arsam_Portfolio/assets/139151109/ab3db838-77b3-4a27-a0fe-6704147d535a)
 
-  # [Project 2: Hotel Data Analysis](https://github.com/ArsamData/Arsam_Portfolio/blob/main/Hotels.pbix)
-    A thorough data analysis done of a hotel chain using the following steps:
+# [Project 2: Hotel Data Analysis](https://github.com/ArsamData/Arsam_Portfolio/blob/main/Hotels.pbix)
+  A thorough data analysis done of a hotel chain using the following steps:
    ## Building a database
  * Built a database in SQL Server Management Studio for the csv file
    
