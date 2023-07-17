@@ -55,6 +55,17 @@ Performed EDA using sql to quickly gather valuable insights.
 ## Final Dashboard
 ![Hotel Dashboard](https://github.com/ArsamData/Arsam_Portfolio/assets/139151109/22609b9e-010c-428d-83ee-6d938c4374e2)
 
+
+
+
+# [Project 3: Diwali Festival Sales - Exploratory Data Analysis Using Python](https://colab.research.google.com/drive/1eKg0yW-dtk7w1qjrLnQ_AFk_Md7Zvmla?usp=sharing)
+ Performed EDA on a Diwali Festival dataset to analyse the sales. To view the complete notebook with code, visualizations and key findings, click the above project title.
+## Project Learnings
+* Perfromed data cleaning and manipulation
+* Performed exploratory data analysis (EDA) usings pandas, matplotlib and seaborn libraries
+* Improved customer experience by identifying potentital customers across different states, occupation, gender and age groups
+* Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
+
   
   
 
